@@ -47,7 +47,8 @@ playwright install
 # Running Tests
 
 - Open Terminal and find the directory of the test files.
-- You can run a single test, a set of tests or all tests. Tests can be run on one browser or multiple browsers. By default tests are run in a headless manner meaning no browser window will be opened while running the tests and results will be seen in the terminal. If you prefer you can run your tests in headed mode by using the `--headed` flag.
+- You can run a single test, a set of tests or all tests. Tests can be run on one browser or multiple browsers. By default tests are run in a headless manner meaning no browser window will be opened while running the tests and results will be seen in the terminal. If you prefer you can run your tests in headed mode by using the 
+`--headed` flag.
 
 - Running tests on Chromium
 
